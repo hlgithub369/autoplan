@@ -5,9 +5,9 @@ spring:
   #数据库连接配置
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://xxxxxx:xxxxxx/xxxxxx?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
-    username: xxxxxxxxx
-    password: xxxxxxxxx
+    url: jdbc:mysql://43.226.33.aa:3306/auto_plan?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+      username: aaa
+      password: aaaa
   main:
     allow-bean-definition-overriding: true
   mvc: #静态资源
