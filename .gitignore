@@ -33,3 +33,4 @@ build/
 .vscode/
 /src/main/java/com/miyoushe/Test.java
 application.yml
+/application.yml
