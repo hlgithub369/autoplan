@@ -6,8 +6,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://xxxxxx:xxxxxx/xxxxxx?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
-    username: xxxxxxxx
-    password: xxxxxxxx
+    username: xxxxxxxxx
+    password: xxxxxxxxx
   main:
     allow-bean-definition-overriding: true
   mvc: #静态资源
